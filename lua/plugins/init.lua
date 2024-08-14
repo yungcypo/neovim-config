@@ -13,15 +13,15 @@ return {
     end,
   },
 
-  -- {
-  -- 	"nvim-treesitter/nvim-treesitter",
-  -- 	opts = {
-  -- 		ensure_installed = {
-  -- 			"vim", "lua", "vimdoc",
-  --      "html", "css"
-  -- 		},
-  -- 	},
-  -- },
+  {
+  	"nvim-treesitter/nvim-treesitter",
+  	opts = {
+  		ensure_installed = {
+  			"vim", "lua", "vimdoc",
+       "html", "css"
+  		},
+  	},
+  },
     { 'wakatime/vim-wakatime', lazy = false },
     { "nvim-telescope/telescope.nvim", dependencies = "tsakirist/telescope-lazy.nvim", lazy = false },
     {
