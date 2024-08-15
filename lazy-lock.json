@@ -2,7 +2,11 @@
   "LuaSnip": { "branch": "master", "commit": "b84eeb3641b08324287587b426ec974b888390d9" },
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "NvChad": { "branch": "v2.5", "commit": "fea5d02d2d07b148243c058d1b8b775f9cccac5e" },
+=======
+  "NvChad": { "branch": "v2.5", "commit": "c40c5116c4c091f4da620abcd9c58bd5ee4b8497" },
+>>>>>>> Stashed changes
 =======
   "NvChad": { "branch": "v2.5", "commit": "c40c5116c4c091f4da620abcd9c58bd5ee4b8497" },
 >>>>>>> Stashed changes
@@ -17,7 +21,11 @@
   "cmp_luasnip": { "branch": "master", "commit": "05a9ab28b53f71d1aece421ef32fee2cb857a843" },
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "conform.nvim": { "branch": "master", "commit": "667102f26106709cddd2dff1f699610df5b94d7f" },
+=======
+  "conform.nvim": { "branch": "master", "commit": "0f4f299dfea09d2adfd7a1da05149a0844ac8eee" },
+>>>>>>> Stashed changes
 =======
   "conform.nvim": { "branch": "master", "commit": "0f4f299dfea09d2adfd7a1da05149a0844ac8eee" },
 >>>>>>> Stashed changes
