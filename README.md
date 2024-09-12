@@ -1,4 +1,8 @@
 # Neovim Configuration
+
+> Note: This repository is discontinued and replaced by [dotfiles repository](https://github.com/yungcypo/dotfiles)  
+> You can still use this repository, but it will not get any updates
+
 This is the configuration that I use for [Neovim](https://neovim.io/)  
 I'm using [NvChad](https://nvchad.com/) along with few other configurations  
 
